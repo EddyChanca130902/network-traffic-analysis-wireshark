@@ -31,4 +31,4 @@ Laboratorio práctico de visibilidad y análisis de tráfico de red utilizando *
 ---
 ## 📂 Contenido del Repositorio
 * `README.md`: Documentación técnica del laboratorio.
-* *(Opcional)* Capturas de pantalla de evidencia guardadas en la carpeta `images/`.
+
